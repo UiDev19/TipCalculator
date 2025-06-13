@@ -53,7 +53,7 @@ const TipCalculator = () => {
   const resetForm = () => {
     setBillAmount('');
 
-    setTipPercent('15');
+    setTipPercent('10');
 
     setFeedback('');
 
